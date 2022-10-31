@@ -11,7 +11,7 @@ OS: Windows 8.1 Pro x86
 Pronouns: She/Her
 Location: Indonesian, West Nusa Tenggara
 Frameworks: .NET
-Languages: JavaScript, Python
+Languages: <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 Learning: Node.js, Python
 Hobbies: Coding, Studying, Gaming
 Instagram: @ravensvenix
