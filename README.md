@@ -2,7 +2,7 @@
 > Xylaan
 ```
 
-<img align="left" src="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" alt="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" width="320" /> 
+<img align="left" src="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" alt="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" width="280" /> 
 
 ```csharp
 anordinaryusername@github
