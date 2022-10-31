@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" alt="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" width="380" /> 
+<img align="left" src="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" alt="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" width="400" /> 
 
 ```csharp
 xylaa@github
