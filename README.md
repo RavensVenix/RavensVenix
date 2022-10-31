@@ -2,7 +2,7 @@
 > Xylaan
 ```
 
-<img align="left" src="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" alt="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" width="280" /> 
+<img align="left" src="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" alt="https://telegra.ph/file/3951f34e7d99b8986f20b.jpg" width="380" /> 
 
 ```csharp
 Xylaan OS INFO
@@ -18,3 +18,9 @@ Instagram: @ravensvenix
 Telegram: @vmxone
 Discord: ❣6xzy✞#6993
 ```
+## ```Let's be friends !```
+<p align="center">
+<a href="https://wa.me/6281338302495"><img src="https://img.shields.io/badge/-CONTACT%206XZY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/K0eLuHKuOYi3DcaUDb1JcK"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="t.me/vmxone"><img src="https://img.shields.io/badge/Telegram-195EFF?style=for-the-badge&logo=telegram&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+</p>
