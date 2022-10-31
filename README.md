@@ -18,7 +18,7 @@ Instagram: @ravensvenix
 Telegram: @vmxone
 Discord: ❣6xzy✞#6993
 ```
-## ```Let's be friends !```
+## ```Feel Free To Talk With Me :D !```
 <p align="center">
 <a href="https://wa.me/6281338302495"><img src="https://img.shields.io/badge/-CONTACT%206XZY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/K0eLuHKuOYi3DcaUDb1JcK"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
