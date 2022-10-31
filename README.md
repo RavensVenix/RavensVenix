@@ -8,7 +8,6 @@
 anordinaryusername@github
 -------------------------
 OS: Windows 8.1 Pro x86
-Shell: Windows Shell
 Pronouns: She/Her
 Location: Indonesian, West Nusa Tenggara
 Frameworks: React
@@ -17,5 +16,5 @@ Learning: Node.js, Python
 Hobbies: Coding, Studying, Gaming
 Instagram: @ravensvenix
 Telegram: @vmxone
-Discord: RandomPotato#1377
+Discord: ❣6xzy✞#6993
 ```
