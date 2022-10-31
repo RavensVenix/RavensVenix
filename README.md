@@ -1,4 +1,4 @@
-```zsh
+```
 > Xylaan
 ```
 
@@ -8,7 +8,7 @@
 anordinaryusername@github
 -------------------------
 OS: Windows 8.1 Pro x86
-Shell: zsh 5.8
+Shell: Windows Shell
 Pronouns: She/Her
 Location: Indonesian, West Nusa Tenggara
 Frameworks: React
