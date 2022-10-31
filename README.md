@@ -10,7 +10,7 @@ xylaa@github
 OS: Windows 8.1 Pro x86
 Pronouns: She/Her
 Location: Indonesian, West Nusa Tenggara
-Currently live in: West Nusa Tenggara, Kota Bima
+Addres: West Nusa Tenggara, Kota Bima
 My Crush: - S -
 Languages: JavaScript, Python
 Learning: Node.js, Python
