@@ -10,10 +10,12 @@ xylaa@github
 OS: Windows 8.1 Pro x86
 Pronouns: She/Her
 Location: Indonesian, West Nusa Tenggara
-Frameworks: .NET
+Live in: West Nusa Tenggara, Kota Bima
+My Crush: - S -
 Languages: JavaScript, Python
 Learning: Node.js, Python
 Hobbies: Coding, Studying, Gaming
+WhatsApp: 081338302495/085338440313
 Instagram: @ravensvenix
 Telegram: @vmxone
 Discord: ❣6xzy✞#6993
