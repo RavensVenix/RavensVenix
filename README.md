@@ -1,4 +1,4 @@
-```windows
+```zsh
 > Xylaan
 ```
 
