@@ -18,7 +18,7 @@ Hobbies: Coding, Studying, Gaming
 WhatsApp: 081338302495/085338440313
 Instagram: @ravensvenix
 Telegram: @vmxone
-Discord: ❣6xzy✞#6993
+Discord: ⚘xʏʟᴀᴀ♱
 ```
 
 ## ```Feel Free To Talk With Me :D !```
