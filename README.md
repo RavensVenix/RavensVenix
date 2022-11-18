@@ -27,5 +27,5 @@ Discord: ⚘xʏʟᴀᴀ♱
 <a href="https://chat.whatsapp.com/E7d7j8RzW9lCVn1xS6UEjx"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/vmxone"><img src="https://img.shields.io/badge/Telegram-195EFF?style=for-the-badge&logo=telegram&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" />
 <a href="https://discordapp.com/users/989346417107689513"><img src="https://img.shields.io/badge/discord-195EFF?style=for-the-badge&logo=Discord&logoColor=ffffff&link=https://www.youtube.com/c/BOTINDO" />
-<a href=https://www.youtube.com/channel/UCwQtcYS28kXt16yMB-hE_yQ/featured"><img src="https://img.shields.io/badge/-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href=https://www.youtube.com/channel/UCwQtcYS28kXt16yMB-hE_yQ/featured"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
