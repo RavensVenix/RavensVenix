@@ -7,18 +7,29 @@
 ```csharp
 xylaa@github
 -------------------------
-OS: Windows 8.1 Pro x86
-Pronouns: She/Her
-Location: Indonesian, West Nusa Tenggara
-Addres: West Nusa Tenggara, Kota Bima
-My Crush: - S -
-Languages: JavaScript, Python
-Learning: Node.js, Python
-Hobbies: Coding, Studying, Gaming
-WhatsApp: 081338302495/085338440313
-Instagram: @ravensvenix
-Telegram: @vmxone
-Discord: ⚘xʏʟᴀᴀ♱
+OS : Windows 8.1 Pro i686
+Host : Acer Aspire V5-431
+Kernel : 6.3.9600
+Packages : 4 (scoop)
+Shell : bash 5.2.12
+Resolution : 1366x768
+DE : Aero
+WM : Explorer
+WM Theme : Custom
+CPU : Intel Celeron 1007U (2) @ 1.500GHz
+GPU : Intel(R) HD Graphics
+Memory : 1837MiB
+Pronouns : She/Her
+Location : Indonesian, West Nusa Tenggara
+Addres : West Nusa Tenggara, Kota Bima
+My Crush : - S -
+Languages : JavaScript, Python
+Learning : Node.js, Python
+Hobbies : Coding, Studying, Gaming
+WhatsApp : 081338302495/082146482998
+Instagram : @ravensvenix
+Telegram : @vmxone
+Discord : LuciaXimena#6993
 ```
 
 ## ```Feel Free To Talk With Me :D !```
