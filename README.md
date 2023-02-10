@@ -1,4 +1,4 @@
-<img align="right" height="570em" src="./images/hi.jpg" alt="arugaz"/>
+<img align="right" height="550em" src="./images/hi.jpg" alt="arugaz"/>
 <h1 align="center">
   Hi there!
   <img width="50" src="./images/menhera.webp" alt="arugaz"/>
