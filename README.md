@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="./images/hi.jpg" alt="arugaz"/>
+<img align="right" height="580em" src="./images/hi.jpg" alt="arugaz"/>
 <h1 align="center">
   Hi there!
   <img width="50" src="./images/menhera.webp" alt="arugaz"/>
@@ -56,6 +56,8 @@
 
 <div align="center">
   <a href="https://api.whatsapp.com/send/?phone=6281338302495"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="arugaz"/></a>
+  <a href="https://discordapp.com/users/989346417107689513"><img src="https://img.shields.io/badge/Discord-0000FF?style=for-the-badge&logo=discord&logoColor=white" alt="arugaz"/></a>
+  <a href="https://t.me/vmxone"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="arugaz"/></a>
   <a href="https://instagram.com/ravensvenix"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="arugaz"/></a>
   <a href="mailto:ravensvenix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arugaz"/></a>
 </div>
