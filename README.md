@@ -20,7 +20,7 @@
 
 <br/>
 
-## Visits
+## 🏠 &nbsp;Visits
 <img src="https://count.getloli.com/get/@:ravensvenix" alt=":ravensvenix" />
 
 ## 🛠 &nbsp;Tech Stuff
