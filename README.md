@@ -48,7 +48,6 @@
 
 <div align="center">
   <img width="444em" src="https://github-readme-stats-arugaz.vercel.app/api?username=RavensVenix&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="ShesHhhh"/>
-  <img width="444em" src="https://github-readme-streak-stats.herokuapp.com?user=arugaz&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="ShesHhhh"/>
   <img width="444em" src="https://github-profile-trophy.vercel.app/?username=RavensVenix&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="ShesHhhh"/>
   <img width="444em" src="https://github-readme-stats-arugaz.vercel.app/api/top-langs/?username=RavensVenix&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11" alt="ShesHhhh"/>
 </div>
