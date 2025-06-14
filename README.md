@@ -6,9 +6,7 @@
 </h1>
 <br>
 <div align="center">
-  <a href="https://egirl.ing/" >
    <img src="https://lanyard.kyrie25.dev/api/989346417107689513?waveColor=FF00FF&idleMessage=Welcome%20to%20my%20Github%20profile!&theme=dark&showBanner=animated&animatedDecoration=true&showDisplayName=true" />
-  </a>
     <br>
 </div><br>
 <div>
