@@ -54,7 +54,7 @@
 most used s-s-sociaw things >~< xoxox</p>
 <div align="center">
   <a href="https://discordapp.com/users/989346417107689513"><img src="https://img.shields.io/badge/Discord-0000FF?style=for-the-badge&logo=discord&logoColor=white" alt="ShesHhhh"/></a>
-  <a href="https://t.me/ywunyun"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="ShesHhhh"/></a>
+  <a href="https://t.me/n4xsuffix"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="ShesHhhh"/></a>
   <a href="mailto:ravensvenix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShesHhhh"/></a>
 </div>
 <br>
