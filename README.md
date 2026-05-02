@@ -96,9 +96,15 @@
 
 <br>
 
+---
+
 <div align="center">
+  <img src="https://count.getloli.com/@:ravensvenix?name=%3Aravensvenix&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=RavensVenix&style=flat-square&color=ff69b4" alt="Profile views"/>
 </div>
+
+---
 
 <div align="center">
   <sub>✦ Made with 💕 and lots of uwu ✦</sub>
