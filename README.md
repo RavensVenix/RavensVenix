@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.dev/api/989346417107689513?waveColor=FF00FF&idleMessage=Bout to Kick Israel ASS&theme=dark&showBanner=animated&animatedDecoration=true&showDisplayName=true" />
+  <img src="https://lanyard.kyrie25.dev/api/989346417107689513?waveColor=FF00FF&idleMessage=ᥣ᥆᥎іᥒg mуsᥱᥣ𝖿&theme=dark&showBanner=animated&animatedDecoration=true&showDisplayName=true" />
 </div>
 
 ---
